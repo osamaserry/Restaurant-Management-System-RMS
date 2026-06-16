@@ -1,0 +1,11 @@
+supplier_id,supplier_name,contact_name,phone,city,lead_time_days,supplier_rating
+1,Golden Distribution,Supplier Contact 1,+201909925047,Cairo,6,3.7
+2,Fresh Foods,Supplier Contact 2,+201091130615,Giza,4,4.6
+3,Metro Distribution,Supplier Contact 3,+201584361682,Alexandria,7,4.9
+4,Metro Ingredients,Supplier Contact 4,+201110773681,Mansoura,9,3.7
+5,Global Ingredients,Supplier Contact 5,+201796487718,Giza,10,3.5
+6,Global Foods,Supplier Contact 6,+201520801967,Giza,2,3.5
+7,Green Supplies,Supplier Contact 7,+201423938499,Cairo,3,4.7
+8,Metro Ingredients,Supplier Contact 8,+201403049883,Alexandria,5,4.6
+9,Urban Distribution,Supplier Contact 9,+201400840636,Giza,4,3.8
+10,Global Foods,Supplier Contact 10,+201460516116,Mansoura,2,3.8

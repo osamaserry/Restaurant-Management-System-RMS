@@ -1,0 +1,66 @@
+inventory_id,ingredient_name,supplier_id,current_stock_qty,reorder_level,unit,usage_frequency,status
+1,Sliced Ham,4,308,20,kg,2370,AVAILABLE
+2,Pineapple,5,570,40,kg,4685,AVAILABLE
+3,Mozzarella Cheese,2,416,35,kg,10333,AVAILABLE
+4,Pepperoni,6,274,55,kg,10300,AVAILABLE
+5,Mushrooms,5,459,49,kg,9624,AVAILABLE
+6,Red Onions,1,530,54,kg,19547,AVAILABLE
+7,Red Peppers,6,366,51,kg,16284,AVAILABLE
+8,Bacon,4,322,22,kg,4227,AVAILABLE
+9,Provolone Cheese,1,552,28,kg,1359,AVAILABLE
+10,Smoked Gouda Cheese,2,235,36,kg,1359,AVAILABLE
+11,Romano Cheese,5,97,72,kg,1359,AVAILABLE
+12,Blue Cheese,1,242,37,kg,1359,AVAILABLE
+13,Garlic,1,307,51,kg,27422,AVAILABLE
+14,Calabrese Salami,9,130,61,kg,1849,AVAILABLE
+15,Capocollo,4,83,72,kg,6572,AVAILABLE
+16,Tomatoes,1,299,35,kg,26601,AVAILABLE
+17,Green Olives,4,526,24,kg,6174,AVAILABLE
+18,Jalapeno Peppers,1,119,53,kg,5643,AVAILABLE
+19,Cilantro,2,161,29,kg,3341,AVAILABLE
+20,Corn,3,518,65,kg,3341,AVAILABLE
+21,Chipotle Sauce,7,418,31,kg,3341,AVAILABLE
+22,Chicken,2,406,25,kg,8443,AVAILABLE
+23,Thai Sweet Chilli Sauce,1,383,63,kg,2315,AVAILABLE
+24,Prosciutto di San Daniele,5,173,80,kg,1428,AVAILABLE
+25,Arugula,3,443,34,kg,1428,AVAILABLE
+26,Barbecued Chicken,4,146,80,kg,2372,AVAILABLE
+27,Green Peppers,3,147,53,kg,5224,AVAILABLE
+28,Barbecue Sauce,8,109,79,kg,2372,AVAILABLE
+29,Kalamata Olives,3,404,40,kg,3269,AVAILABLE
+30,Feta Cheese,8,380,46,kg,4748,AVAILABLE
+31,Beef Chuck Roast,8,505,22,kg,1406,AVAILABLE
+32,Spinach,6,146,69,kg,10012,AVAILABLE
+33,Artichokes,3,469,47,kg,5682,AVAILABLE
+34,Asiago Cheese,1,349,77,kg,3342,AVAILABLE
+35,Goat Cheese,7,406,32,kg,3301,AVAILABLE
+36,Oregano,7,461,78,kg,1414,AVAILABLE
+37,Peperoncini verdi,1,164,80,kg,1887,AVAILABLE
+38,Sun-dried Tomatoes,6,478,24,kg,1880,AVAILABLE
+39,Pesto Sauce,8,305,68,kg,2893,AVAILABLE
+40,Zucchini,7,358,77,kg,2485,AVAILABLE
+41,Artichoke,10,455,78,kg,2302,AVAILABLE
+42,Fontina Cheese,7,184,20,kg,3259,AVAILABLE
+43,Gouda Cheese,9,199,74,kg,2302,AVAILABLE
+44,Italian Sausage,6,518,40,kg,1811,AVAILABLE
+45,Chorizo Sausage,6,82,59,kg,1811,AVAILABLE
+46,SoppressataSalami,3,394,25,kg,957,AVAILABLE
+47,Ricotta Cheese,1,334,40,kg,1850,AVAILABLE
+48,Gorgonzola Piccante Cheese,7,222,37,kg,1850,AVAILABLE
+49,Parmigiano Reggiano Cheese,1,277,50,kg,1850,AVAILABLE
+50,Anchovies,2,309,20,kg,1451,AVAILABLE
+51,Salami,6,101,68,kg,927,AVAILABLE
+52,Pancetta,7,172,36,kg,927,AVAILABLE
+53,Friggitello Peppers,5,397,53,kg,927,AVAILABLE
+54,Eggplant,1,461,55,kg,975,AVAILABLE
+55,Plum Tomatoes,9,155,60,kg,923,AVAILABLE
+56,GenoaSalami,2,462,54,kg,1422,AVAILABLE
+57,Coarse SicilianSalami,7,351,65,kg,1887,AVAILABLE
+58,Luganega Sausage,8,174,77,kg,1887,AVAILABLE
+59,Onions,4,416,44,kg,1887,AVAILABLE
+60,Alfredo Sauce,8,364,52,kg,980,AVAILABLE
+61,Brie Carre Cheese,10,177,59,kg,480,AVAILABLE
+62,Prosciutto,9,594,50,kg,480,AVAILABLE
+63,Caramelized Onions,8,526,41,kg,480,AVAILABLE
+64,Pears,4,594,24,kg,480,AVAILABLE
+65,Thyme,7,523,52,kg,480,AVAILABLE

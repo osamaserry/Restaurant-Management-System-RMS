@@ -1,0 +1,16 @@
+EmployeeID,FullName,Phone,Role,Salary,Shift,HireDate
+1,Ali Hassan,1180100281,Waiter,4039,Morning,6/20/2013
+2,Mahmoud Samir,1293770437,Waiter,4320,Evening,3/1/2012
+3,Fatma Nour,1055680391,Waiter,4424,Night,8/15/2012
+4,Youssef Adel,1255671297,Waiter,3833,Morning,2/1/2014
+5,Amira Khaled,1286555437,Waiter,4293,Evening,1/10/2013
+6,Ibrahim Taha,1156353923,Chef,6860,Night,6/20/2013
+7,Heba Mostafa,1134414740,Chef,6932,Morning,9/15/2014
+8,Sherif Omar,1111880225,Chef,7497,Evening,3/1/2012
+9,Dalia Ahmed,1085102704,Cashier,4793,Night,6/20/2013
+10,Nader Fawzy,1590933880,Cashier,4371,Morning,1/10/2013
+11,Maged Ramzy,1262857040,Manager,10315,Evening,9/15/2014
+12,Rania Fouad,1272596250,Manager,10267,Night,9/15/2014
+13,Tarek Sobhy,1232573760,Delivery,3945,Morning,9/15/2014
+14,Nora Zaki,1046088086,Delivery,3934,Evening,2/1/2014
+15,Hesham Atef,1296747839,Host,3855,Night,6/20/2013
